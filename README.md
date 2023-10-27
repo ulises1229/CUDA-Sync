@@ -78,4 +78,4 @@ Se deberán crear cuentas en las siguientes plataformas:
 8. **Manejo de Memoria Compartida**: Mejora un kernel existente utilizando memoria compartida de manera eficiente para acelerar el rendimiento de los cálculos. Compara el rendimiento antes y después de la optimización.
 
 
-##### Última actualización: 27 de octubre de 2023
+### Última actualización: 27 de octubre de 2023
